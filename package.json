@@ -1,0 +1,30 @@
+{
+  "name": "angular-flow-router",
+  "version": "0.1.0",
+  "description": "Flow based router for Angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasudevan-palani/angular-flow-router.git"
+  },
+  "keywords": [
+    "angular",
+    "router",
+    "flow",
+    "chart",
+    "flowchart"
+  ],
+  "author": "Vasudevan PALANI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasudevan-palani/angular-flow-router/issues"
+  },
+  "homepage": "https://github.com/vasudevan-palani/angular-flow-router#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
